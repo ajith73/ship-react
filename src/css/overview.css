@@ -1,0 +1,42 @@
+.overview-header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    
+}
+
+.overview-header h1{
+    padding:0px 0px;
+    margin-bottom: -10px;
+}
+.overview-header button{
+     font-size: 1.5rem;
+    padding: 0px 15px;
+    margin: 10px 0px;
+    
+}
+
+.overview-p {
+    padding:120px 50px;
+}
+
+.globe-img{
+    width: 450px;
+    height: 250px;
+}
+.overview-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.overview-footer{
+    display: flex;
+    justify-content: end;
+    border-top: 1px solid black;
+    
+
+}
+.btn {
+    margin-top: 10px;
+    
+}

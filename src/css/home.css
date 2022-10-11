@@ -1,0 +1,32 @@
+.home-main1{
+    background-color: #6daaad;
+     height:950px;
+}
+
+@media only screen and (min-width:768px)and (max-width:992px){
+    .p-4{
+        height: 1250px;
+    }
+    .home-main1{
+        
+         height:1700px;
+    }
+  
+    .col-waterflow{
+        
+        position: relative;
+        top:-315px;
+        left: 335px;
+    }
+}
+@media only screen and (min-width:576px)and (max-width:768px){
+    .home-main1{
+        
+        height:1750px;
+   }
+}
+@media only screen and (min-width:320px)and (max-width:576px){
+    .home-main1{
+        height: 1950px;
+    }
+}

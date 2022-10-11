@@ -1,0 +1,88 @@
+Scenario 1
+To fulfill high customer demand for the newest smartphone, your ship must carry at least 8,500 cargo containers. It will travel from Shanghai to Tacoma, then to Los Angeles, and back to Shanghai. The ship must use less than 9,700 tonnes of fuel for the round trip and should be able to make the round trip in no more than 53 days.
+
+Ports	Depth(m)
+Shanghai	17.5
+Tacoma	15.2
+Los Angeles	15.9
+
+
+
+
+
+
+Scenario 2
+When transporting perishable products by sea, time is a critical factor. Refrigerated containers are used to transport fresh meat, produce, and dairy products. Your ship will carry fresh food products from Los Angeles to the Hawaiian Islands in no more than 6 days, to prevent food from spoiling. To limit the shipping cost, the ship should use not more than 650 tonnes of fuel for the one-way voyage. If this goal is not met, the fresh products will be too expensive for people in Hawaii to purchase. This ship should be able to carry at least 1,000 cargo containers.
+
+Ports	Depth(m)
+Los Angeles	15.9
+Hilo	10.7
+Kahului	8.2
+Honolulu	12.2
+Nawiliwili	11.0
+
+
+
+
+
+
+Scenario 3
+Because fuel cost is between 50 and 90 percent of the overall cost of operating a ship, management has asked you to design a ship with very low fuel use. This ship will be used to carry waste products such as trash and recyclable materials, so speed of delivery is less of a concern. Design a ship that can carry at least 5,000 cargo containers and that uses less than 1,700 tonnes of fuel for the one-way trip. The ship will be used on a route from Barcelona, Spain, to Mumbai, India, with a stop in Dubai, United Arab Emirates (UAE), to take on cargo.
+
+Ports	Depth(m)
+Barcelona	11.5
+Dubai	17.0
+Mumbai	10.0
+
+
+
+
+
+
+Scenario 4
+Management at your shipping company is concerned with minimizing the impact of shipping on the environment. Design a ship that can carry at least 4,000 cargo containers and that emits less than 20,000 tonnes of CO2. The ship should be able to travel around the world to the following ports in the order given: 1) Tokyo, Japan; 2) Long Beach, CA, USA; 3) Savannah, GA, USA; 4) Newark, NJ, USA; 5) Barcelona, Spain; 6) Dubai, UAE; 7) Mumbai, India; 8) Singapore; and 9) Shanghai, China.
+
+Ports	Depth(m)
+Tokyo	13.0
+Long Beach	11.0
+Savannah	12.8
+Newark	15.2
+Barcelona	11.5
+Dubai	17.0
+Mumbai	10.0
+Singapore	15.7
+Shanghai	17.5
+
+
+
+
+
+
+Scenario 5
+Popular goods made in China need to be delivered to the east coast of South America at very low cost. The port of origin is Shanghai, China, and the destination ports are Balboa, Panama; Santos, Brazil; and Buenos Aires, Argentina. You are asked to design a ship for this route. The ship should be able to carry at least 9,000 cargo containers per trip, achieve a cost per container below $2,000, and complete the one-way trip in no more than 53 days.
+
+Ports	Depth(m)
+Shanghai	17.5
+Balboa	17.0
+Santos	9.0
+Buenos Aires	9.8
+
+
+
+
+
+
+
+
+
+
+Overview
+You are a design engineer for a container shipping company. The company management needs you to design container ships, each to be used on a particular route and for a specific purpose. Choose at least three of the five scenarios to work on.
+
+After you have found designs that work for the scenarios you have chosen, you will write a short report providing evidence and explaining how your designs meet each shipping scenario’s criteria.
+
+
+
+
+
+Choose a scenario, make your updates, open the simulation tab, and run the simulation.

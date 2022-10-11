@@ -1,0 +1,176 @@
+.overview-container {
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 0.3rem;
+    outline: 0;
+    
+    margin: 10% 55%;
+}
+
+.modal-dialog {
+    position: fixed;
+    max-width: 100%;
+    width: auto;
+    margin: 0.5rem;
+    pointer-events: none;
+}
+
+.model-header {
+    padding: 1px 25px;
+}
+
+.model-p {
+    width: 450px;
+    padding: 0px 0px;
+}
+
+.globe-img {
+    height: 300px;
+    width: 100%;
+}
+
+@media only screen and (min-width:1400px)and(max-width:1600px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 90%;
+        margin:10% 50%;
+    }
+
+    .globe-img {
+        height: 200px;
+        width: 80%;
+    }
+
+}
+
+@media only screen and (min-width:1200px)and (max-width:1400px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 90%;
+        margin:10% 30%;
+    }
+
+
+
+}
+
+@media only screen and (min-width:992px)and (max-width:1200px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 90%;
+        margin-left: 60px;
+    }
+
+}
+
+@media only screen and (min-width:768px)and (max-width:992px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 88%;
+        margin-left: 40px;
+    }
+
+    .globe-img {
+        height: 250px;
+        width: 45%;
+        margin-top: 20px;
+    }
+
+    .model-p {
+        width: 300px;
+        padding: 0px 0px;
+    }
+
+}
+
+@media only screen and (min-width:576px)and (max-width:768px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 85%;
+        margin-left: 35px;
+    }
+
+    .globe-img {
+        margin-top: 50px;
+        height: 200px;
+        width: 300px;
+    }
+
+    .model-p {
+        font-size: 0.8rem;
+        width: 200px;
+        padding: 0px 0px;
+    }
+
+}
+
+@media only screen and (min-width:320px)and (max-width:576px) {
+    .modal-dialog {
+
+        max-width: 100%;
+        margin: 1.75rem auto;
+    }
+
+    .modal-content {
+        width: 89%;
+        margin-left: 10px;
+    }
+
+    .globe-img {
+        margin-left: 30px;
+        height: 100px;
+        width: 200px;
+    }
+
+    .model-p {
+        font-size: 0.6rem;
+        width: 270px;
+        padding: 0px 0px;
+    }
+
+    .model-body {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+}
